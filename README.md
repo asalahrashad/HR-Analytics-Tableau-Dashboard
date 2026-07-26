@@ -58,7 +58,7 @@ Divided into three dedicated analytical tabs/sections:
 
 | View | Preview |
 | :--- | :--- |
-| **Summary View - Overview** | `![Overview](docs/Overview.png)` |
+| **Summary View - Overview** | `![Overview]<img src="docs/Overview.png" alt="Data Model" width="600">` |
 | **Employee Records** | `![Records](docs/Details.png)` |
 
 ---
