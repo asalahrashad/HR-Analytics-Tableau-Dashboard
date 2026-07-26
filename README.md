@@ -54,12 +54,18 @@ Divided into three dedicated analytical tabs/sections:
 
 ## 📸 Dashboard Screenshots
 
-*(Tip: Replace these placeholders with actual screenshots of your published Tableau dashboard!)*
 
-| View | Preview |
-| :--- | :--- |
-| **Summary View - Overview** | `![Overview]<img src="docs/Overview.png" alt="Data Model" width="600">` |
-| **Employee Records** | `![Records](docs/Details.png)` |
+**Overview**
+<p align="center">
+  <img src="docs/Overview.png" alt="Dashboard Overview" width="800">
+</p>
+---
+
+**Details**
+<p align="center">
+  <img src="docs/Details.png" alt="Dashboard Overview" width="800">
+</p>
+
 
 ---
 
@@ -81,7 +87,6 @@ You can view and interact with the full dashboard online here:
 ## ⚙️ How to Use
 
 1. **Clone the Repository:**
-   ```bash
    git clone [https://github.com/your-username/hr-tableau-dashboard.git](https://github.com/your-username/hr-tableau-dashboard.git)
 
 1. Open Workbook: Download the .twbx file from the repository and open it using Tableau Desktop or Tableau Reader.
