@@ -87,7 +87,7 @@ You can view and interact with the full dashboard online here:
 ## ⚙️ How to Use
 
 1. **Clone the Repository:**
-   git clone [https://github.com/your-username/hr-tableau-dashboard.git](https://github.com/your-username/hr-tableau-dashboard.git)
+   git clone [https://github.com.....git)
 
 1. Open Workbook: Download the .twbx file from the repository and open it using Tableau Desktop or Tableau Reader.
 
