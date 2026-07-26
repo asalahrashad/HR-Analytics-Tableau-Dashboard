@@ -55,13 +55,13 @@ Divided into three dedicated analytical tabs/sections:
 ## 📸 Dashboard Screenshots
 
 
-**Overview**
+*Overview*
 <p align="center">
   <img src="docs/Overview.png" alt="Dashboard Overview" width="800">
 </p>
----
 
-**Details**
+
+*Details*
 <p align="center">
   <img src="docs/Details.png" alt="Dashboard Overview" width="800">
 </p>
